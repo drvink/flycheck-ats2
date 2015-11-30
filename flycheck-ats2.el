@@ -95,5 +95,5 @@ Add `ats2' to `flycheck-checkers'."
   (interactive)
   (add-to-list 'flycheck-checkers 'ats2))
 
-(provide 'ats2-flycheck)
+(provide 'flycheck-ats2)
 ;;; flycheck-ats2.el ends here
